@@ -1,0 +1,2 @@
+# Japonese-anki-ocr
+
