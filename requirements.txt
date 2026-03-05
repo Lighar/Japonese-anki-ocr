@@ -1,0 +1,5 @@
+pynput
+Pillow
+manga-ocr
+requests
+python-dotenv
